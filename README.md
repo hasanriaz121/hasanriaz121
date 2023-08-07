@@ -12,6 +12,7 @@ You can click the Preview link to take a look at your changes. -->
 #### Web Development & Data Science
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasanriaz121&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)-->
+[![GitHub Streak](https://streak-stats.demolab.com?user=hasanriaz121&theme=material)](https://git.io/streak-stats)
 
 
 I enjoy learning about new frameworks to tackle old projects, finding creative & innovative approaches that weren't available or too tedious to implement on a previous iteration. Example: Moving from HTML,CSS & JavaScript to React or from Java & XML to React Native.
