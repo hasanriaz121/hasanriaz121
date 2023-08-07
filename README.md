@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes. -->
 ### Hi there 👋, I'm Hassan
 #### Software & Web Development
 
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasanriaz121)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasanriaz121)](https://github.com/anuraghazra/github-readme-stats)
 
 I'm from Pakistan and mostly work on Software & Web content, recently finished my BSCS from FAST NUCES. I enjoy learning about new frameworks to tackle old projects, finding creative & innovative approaches that weren't available or too tedious to implement on a previous iteration. Example: Moving from HTML,CSS & JavaScript to React or from Java & XML to React Native.
 
